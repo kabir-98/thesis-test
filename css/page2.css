@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: large;
+  }
+  .welcome {
+    /* display: block; */
+    /* position:absolute; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+  .button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, darkorange);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    margin-left: 200px;
+  }
+  .button:hover {
+    text-decoration: none;
+  }
+

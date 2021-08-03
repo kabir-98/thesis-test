@@ -1,0 +1,22 @@
+.main{
+    /* margin: 200px; */
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size:xx-large;
+
+}
+
+.btn1{
+    background-color: tomato;
+    margin-left: 110px;
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
+.btn2{
+    background-color: yellowgreen;
+    margin-left: 120px;
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
