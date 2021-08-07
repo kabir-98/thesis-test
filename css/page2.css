@@ -1,6 +1,6 @@
 body {
     background-color: white;
-    font-family: "Architects Daughter", cursive;
+    font-family: "Times New Roman";
     font-size: large;
   }
   .welcome {
@@ -18,13 +18,13 @@ body {
     border-radius: 10px;
     color: white;
     font-weight: 700;
-    margin-left: 200px;
+    margin-left: 250px;
   }
   .button:hover {
     text-decoration: none;
   }
 
   .heading{
-    margin-left: 100px;
+    margin-left: 150px;
   }
 
